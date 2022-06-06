@@ -1,4 +1,5 @@
 create database pub;
+go
 use pub;
 go
 
@@ -19,4 +20,17 @@ create table Beer
 	constraint FK_Beer_Brand foreign key(BrandId) references Brand(Id)
 )
 go
+
+INSERT INTO Brand (Name) 
+VALUES ('Club'),
+		('Pilsener'),
+		('Heineken'),
+		('Budweiser'),
+		('Corona'),
+		('Brahma');
+go
+
+
+SELECT * FROM Brand;
+SELECT * FROM Beer;
 

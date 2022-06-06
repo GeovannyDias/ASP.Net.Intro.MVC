@@ -24,7 +24,7 @@ Microsoft.EntityFrameworkCore.Tools 6.0.5
 * **https://docs.microsoft.com/en-us/ef/core/managing-schemas/scaffolding?tabs=dotnet-core-cli**
 
 ```
-Package Manager Console
+Package Manager Console (Mapping Data Base - Change name and instance data base)
 
 Scaffold-DbContext "Server=DESKTOP-J68K3OO; Database=Pub; Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -ContextDir Context
 
@@ -68,8 +68,14 @@ Scaffold-DbContext "Server=GEOLAP\SQLEXPRESS; Database=Pub; Trusted_Connection=T
 ```
 *.cshtml
 ```
+## Add Controller and view
+```
+Add controller mvc empty
+Click derecho en el método del controlador (index) y seleccionar Agregar vista.
 
+```
 
 ## Reference
 * **https://www.youtube.com/watch?v=28LjewDjaz4**
+
 
