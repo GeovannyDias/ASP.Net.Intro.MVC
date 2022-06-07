@@ -1859,19 +1859,19 @@
     ]
   },
   "packageFolders": {
-    "D:\\Usuarios\\jdiasama\\.nuget\\packages\\": {}
+    "C:\\Users\\Geo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Develop\\test\\ASP.Net.Intro.MVC\\IntroMvcAspNet\\IntroMvcAspNet\\IntroMvcAspNet.csproj",
+      "projectUniqueName": "D:\\Developer_Studio\\Web\\DotNet\\ASP.Net.Intro.MVC\\IntroMvcAspNet\\IntroMvcAspNet\\IntroMvcAspNet.csproj",
       "projectName": "IntroMvcAspNet",
-      "projectPath": "D:\\Develop\\test\\ASP.Net.Intro.MVC\\IntroMvcAspNet\\IntroMvcAspNet\\IntroMvcAspNet.csproj",
-      "packagesPath": "D:\\Usuarios\\jdiasama\\.nuget\\packages\\",
-      "outputPath": "D:\\Develop\\test\\ASP.Net.Intro.MVC\\IntroMvcAspNet\\IntroMvcAspNet\\obj\\",
+      "projectPath": "D:\\Developer_Studio\\Web\\DotNet\\ASP.Net.Intro.MVC\\IntroMvcAspNet\\IntroMvcAspNet\\IntroMvcAspNet.csproj",
+      "packagesPath": "C:\\Users\\Geo\\.nuget\\packages\\",
+      "outputPath": "D:\\Developer_Studio\\Web\\DotNet\\ASP.Net.Intro.MVC\\IntroMvcAspNet\\IntroMvcAspNet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "D:\\Usuarios\\jdiasama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Geo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1879,8 +1879,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/BancoPichinchaEC/_packaging/BancoPichinchaEC/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
